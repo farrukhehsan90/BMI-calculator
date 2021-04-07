@@ -1,0 +1,6 @@
+module Pods_bmi_calculator {
+  umbrella header "Pods-bmi_calculator-umbrella.h"
+
+  export *
+  module * { export * }
+}
